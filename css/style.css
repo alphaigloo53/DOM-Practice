@@ -8,12 +8,6 @@ body {
 }
 
 .selected {
-    background-color: #0d6efd;
-    color: white;
-    border-color: #0d6efd;
-}
-
-.selected {
   background-color: #0d6efd;
   color: white;
 }
