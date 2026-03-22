@@ -49,7 +49,7 @@ function displayResults() {
 
 }
 
-let resultsButton = document.getElementById("result-btn");
+let resultsButton = document.getElementById("results-btn");
 
 resultsButton.addEventListener("click", function() {
     displayResults();
